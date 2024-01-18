@@ -2,7 +2,7 @@
 
 I'm a React-Native Developer at [Easyeat.ai](https://easyeat.ai/) with a passion for building cool apps.
 
-## 🌐 Visit my [portfolio website](https://abuzarmirza.com/) to learn more about me and get in touch.
+## 🌐 Visit my [portfolio website](https://abdemirza.netlify.app/) to learn more about me and get in touch.
 
 On my website, you can find more information about my background, work experience, and projects I've worked on. You can also contact me directly via the site or through my social media links.
 
